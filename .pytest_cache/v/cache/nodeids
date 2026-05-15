@@ -1,0 +1,5 @@
+[
+  "tests/test_queries.py::test_create_and_get_user",
+  "tests/test_queries.py::test_create_resume_and_filter",
+  "tests/test_queries.py::test_response_workflow"
+]
